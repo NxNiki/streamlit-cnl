@@ -27,6 +27,8 @@ cffi_bin
 # Pyenv Stuff
 .python-version
 
+venv
+
 ########################################################################
 # OSX - https://github.com/github/gitignore/blob/master/Global/macOS.gitignore
 ########################################################################
